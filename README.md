@@ -1,1 +1,0 @@
-# etl_anime_scrapping
