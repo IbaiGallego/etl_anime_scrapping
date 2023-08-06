@@ -24,9 +24,6 @@ I am going to delete informationn that is not relevant to my study. This dataset
 
 
 
-
-
-
 ## Scrapping Wikipedia
 
 I want to create a funnction that extracts information such as director, producer and such. I will run through every link substituting the entry title with the anime title changing the ' ' with '_' using str.replace(). The structure in wikipedia always has a table (html table) where the **'th'** is **'directed by'** or **'produced by'** and the **'td'** is the name of the person. This way I can create a function with a try, except to collect the most part of the 17500 animes in the dataset. I will fisrt try using bs4 (beautiful soup) as it is faster than selenium.
@@ -37,12 +34,36 @@ I want to create a funnction that extracts information such as director, produce
     * import pandas as pd
     * from bs4 import BeautifulSoup as bs
     * import pandas as pd (optional: pd.set_option('display.max_columns', None))
-    * import multiprocessing as mp (for paralellization)
+    * from joblib import Parallel, delayed
+    * import numpy as np
+    * imported both tqdm and multiprocessing  but ended up not using them.
 
     <br>
 
-2. Read the .csv
-3. 
+2. Read the .csv.
+
+3. Created a function that requests the wikipedia url with beautifulsoup using the name of the anime with underscores in stead of spaces to find the director. 
+
+    * It first tries to find the a table whose class can be either 'infobox' or 'infobox infobox_v2'.
+    * It then loops through the rows of the table and finds the th with the heather 'directer by'. It is important to note that the spaces are '\xa0' so i replaced them with nothing.
+    * When it finds that th it returns the td of said row.
+    * The function was protected using a try except and returns 'fallo' for failure and unknnown if it works and it never finds the director.
+
+4. Then I use joblib to parallelize and use 4 nucleus in my computer and add the collumn 'director' by appliying the function to each anime english name.
+
+5. I then safe the datafram to a .csv named 'anime_2.csv'.
+
+6. I repeat the process changing the 'directed by' with 'produced by'.
+
+7. Delete the rows that dont have either the director and the producer.
+
+8. Safe the df as anime_clean.
+
+*Important note: This function could also be used with other inputs like the original name. Some anime don't have athe wikipedia page with the english name. From 17.500 animes i could onnly scrape around a thousand directors and producers resulting in 1759 rows with either director and or producer.*
+
+*commit 4*
+
+
 
 
 
