@@ -1,0 +1,405 @@
+title_english,imdb_rating,imdb_trust,score,japanese_name
+Jujutsu Kaisen,8.5,False,6.95,呪術廻戦
+Hunter x Hunter,9.0,True,8.42,HUNTER×HUNTER（ハンター×ハンター）
+Hunter x Hunter,9.0,True,9.1,HUNTER×HUNTER（ハンター×ハンター）
+Hunter x Hunter,8.6,False,8.42,HUNTER×HUNTER（ハンター×ハンター）
+Hunter x Hunter,8.6,False,9.1,HUNTER×HUNTER（ハンター×ハンター）
+My Hero Academia,8.3,False,8.11,僕のヒーローアカデミア
+Death Note,8.9,True,8.63,デスノート
+Black Clover,8.3,False,7.38,ブラッククローバー
+Chainsaw Man,8.4,False,,チェンソーマン
+Bastard!!,6.5,False,6.75,バスタード!! 暗黒の破壊神
+One Punch Man,8.7,True,8.57,ワンパンマン
+Dragon Ball Z,8.8,True,8.16,ドラゴンボールZ
+Dragon Ball Z,8.8,False,8.16,ドラゴンボールZ
+Cowboy Bebop,8.9,True,8.78,カウボーイビバップ
+Neon Genesis Evangelion,8.5,False,8.32,新世紀エヴァンゲリオン
+Gintama,8.7,False,8.96,銀魂
+Gintama,8.8,False,8.96,銀魂
+Dragon Ball Super,8.3,False,7.42,ドラゴンボール超（スーパー）
+Mob Psycho 100,8.6,False,8.49,モブサイコ100
+Sword Art Online,7.5,False,7.25,ソードアート・オンライン
+Horimiya,8.1,False,8.6,ホリミヤ
+The Promised Neverland,8.2,False,8.65,約束のネバーランド
+Prison School,7.6,False,7.71,監獄学園〈プリズンスクール〉
+Fairy Tail,7.9,False,7.68,FAIRY TAIL（フェアリーテイル）
+Tokyo Ghoul,7.7,False,7.81,東京喰種-トーキョーグール-
+Dr. Stone,8.1,False,8.34,ドクターストーン
+High School DxD,7.6,False,7.4,ハイスクールD×D
+Fruits Basket,8.6,False,7.69,フルーツバスケット
+Fruits Basket,7.9,False,7.69,フルーツバスケット
+Classroom of the Elite,7.7,False,7.85,ようこそ実力至上主義の教室へ
+Made in Abyss,8.4,False,8.74,メイドインアビス
+Violet Evergarden,8.4,False,8.64,ヴァイオレット・エヴァーガーデン
+Psycho-Pass,8.2,False,8.38,サイコパス
+Your Lie in April,8.6,False,8.74,四月は君の嘘
+That Time I Got Reincarnated as a Slime,8.1,False,8.07,転生したらスライムだった件
+Redo of Healer,6.4,False,6.22,回復術士のやり直し
+Fire Force,7.6,False,7.68,炎炎ノ消防隊
+Akame ga Kill!,7.8,False,7.53,アカメが斬る！
+Serial Experiments Lain,8.1,False,8.03,シリアルエクスペリメンツレイン
+Assassination Classroom,8.0,False,8.12,暗殺教室
+Goblin Slayer,7.5,False,7.46,ゴブリンスレイヤー
+Elfen Lied,7.9,False,7.56,エルフェンリート
+Samurai Champloo,8.6,False,8.5,サムライチャンプルー
+Hellsing Ultimate,8.2,False,8.4,HELLSING OVA
+The Rising of the Shield Hero,7.9,False,8.0,盾の勇者の成り上がり
+The Rising of the Shield Hero,7.9,False,,盾の勇者の成り上がり
+To Your Eternity,8.4,False,,不滅のあなたへ
+Afro Samurai,7.6,False,7.36,アフロサムライ
+Fate/Zero,8.2,False,8.34,フェイト/ゼロ
+DARLING in the FRANXX,7.3,False,7.33,ダーリン・イン・ザ・フランキス
+Trigun,8.2,False,8.24,トライガン
+Black Butler,7.7,False,7.75,黒執事
+Gantz,7.2,False,7.05,ガンツ
+FLCL,8.1,False,8.03,フリクリ
+Ergo Proxy,7.9,False,7.92,エルゴプラクシー
+Sonic X,6.2,False,6.46,ソニック X
+Dragon Ball GT,6.8,False,6.48,ドラゴンボールGT
+Hellsing,7.8,False,7.5,Hellsing [ヘルシング]
+Death Parade,7.9,False,8.2,デス・パレード
+The Ancient Magus' Bride,7.7,False,8.1,魔法使いの嫁
+Golden Kamuy,8.1,False,7.83,ゴールデンカムイ
+Toradora!,8.0,False,8.24,とらドラ！
+Interspecies Reviewers,7.3,False,7.58,異種族レビュアーズ
+Deadman Wonderland,7.1,False,7.22,デッドマン・ワンダーランド
+No Guns Life,6.7,False,6.89,ノー・ガンズ・ライフ
+No Guns Life,6.7,False,7.05,ノー・ガンズ・ライフ
+"No Game, No Life",7.6,False,8.2,ノーゲーム・ノーライフ
+Edens Zero,7.2,False,,EDENS ZERO
+Tower of God,7.6,False,7.66,神之塔 -Tower of God-
+Bakemonogatari,8.0,False,8.36,化物語
+91 Days,7.7,False,7.84,91Days
+Fate/stay night,7.3,False,7.34,Fate/stay night
+The Way of the Househusband,7.3,False,,極主夫道
+Aggretsuko,8.0,False,7.64,アグレッシブ烈子
+Aggretsuko,8.0,False,7.7,アグレッシブ烈子
+ReLIFE,7.8,False,8.03,ReLIFE
+SK8 the Infinity,8.1,False,7.96,SK∞ エスケーエイト
+The God of High School,7.2,False,7.07,THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール
+The God of High School,7.2,False,7.02,갓오브하이스쿨
+Puella Magi Madoka Magica,8.2,False,8.38,魔法少女まどか★マギカ
+Akudama Drive,7.3,False,7.75,アクダマドライブ
+Space Dandy,8.1,False,7.88,スペース☆ダンディ
+Baccano!,8.2,False,8.42,バッカーノ！
+Shaman King,7.0,False,7.78,シャーマンキング
+Angel Beats!,7.6,False,8.15,Angel Beats!（エンジェルビーツ）
+Log Horizon,7.5,False,8.0,ログ・ホライズン
+The Tatami Galaxy,8.4,False,8.61,四畳半神話大系
+Durarara!!,7.8,False,8.18,デュラララ!!
+Darwin's Game,7.2,False,7.3,ダーウィンズゲーム
+Ranma ½,7.9,False,7.76,らんま1/2
+Tekkonkinkreet,7.5,False,7.98,鉄コン筋クリート
+Girls Bravo,6.5,False,6.45,GIRLSブラボー first season
+Yu-Gi-Oh! GX,6.8,False,7.16,遊☆戯☆王　デュエルモンスターズ GX
+Strike the Blood,6.9,False,7.14,ストライク・ザ・ブラッド
+Full Metal Panic!,7.6,False,7.65,フルメタル・パニック！
+D.Gray-man,7.7,False,8.05,ディー・グレイマン
+Ping Pong the Animation,8.6,False,8.63,ピンポン THE ANIMATION
+Wolf's Rain,7.9,False,7.82,ウルフズレイン
+Outlaw Star,7.9,False,7.87,星方武侠アウトロースター
+Outlaw Star,7.9,False,6.94,星方武侠アウトロースター パイロット版
+Outlaw Star,7.9,False,7.11,星方武侠アウトロースター
+Infinite Stratos,6.6,False,6.75,IS 〈インフィニット・ストラトス〉
+Tsuredure Children,7.3,False,7.67,徒然チルドレン
+Godzilla Singular Point,6.5,False,,ゴジラ S.P ＜シンギュラポイント＞
+Bloom Into You,7.8,False,7.93,やがて君になる
+Stitch!,4.5,False,6.04,スティッチ！
+Little Witch Academia,7.8,False,7.91,リトルウィッチアカデミア
+Little Witch Academia,7.3,False,7.91,リトルウィッチアカデミア
+Yu-Gi-Oh! Arc-V,6.0,False,6.79,遊☆戯☆王　アーク・ファイブ ARC-V
+Tsugumomo,6.6,False,7.07,つぐもも
+O Maidens in Your Savage Season,7.2,False,7.5,荒ぶる季節の乙女どもよ。
+Armitage III,6.9,False,7.05,アミテージ・ザ・サード
+Barakamon,8.2,False,8.41,ばらかもん
+Blood+,7.6,False,7.66,ブラッドプラス
+Diabolik Lovers,4.9,False,5.3,DIABOLIK LOVERS
+Sirius the Jaeger,6.8,False,7.04,天狼〈シリウス〉 Sirius the Jaeger
+Kemono Jihen,7.3,False,7.56,怪物事変
+Seiren,5.7,False,6.31,セイレン
+Gunsmith Cats,7.2,False,7.27,ガンスミス キャッツ
+Zatch Bell!,7.2,False,7.55,金色のガッシュベル!!
+Blood Lad,7.0,False,7.33,ブラッドラッド
+Absolute Duo,6.3,False,6.51,アブソリュート・デュオ
+Superbook,6.6,False,5.99,アニメ 親子劇場
+Samurai 7,7.6,False,7.48,サムライセブン
+Black Bullet,6.9,False,7.17,ブラック・ブレット　BLACK BULLET　［黒の銃弾］
+Kaiba,8.1,False,8.17,カイバ
+Planetes,8.1,False,8.31,プラネテス
+Toriko,7.2,False,7.56,トリコ
+Lovely Complex,7.9,False,8.06,ラブ★コン
+The Big O,7.5,False,7.53,THEビッグオー
+No. 6,7.4,False,7.58,NO.6［ナンバー・シックス］
+Chihayafuru,8.1,False,8.23,ちはやふる
+Venus Wars,6.6,False,6.78,ヴィナス戦記
+Owarimonogatari,8.3,False,8.46,終物語
+Kiznaiver,7.0,False,7.43,キズナイーバー
+Triage X,6.0,False,6.34,トリアージX
+Gamers!,6.7,False,6.92,ゲーマーズ！
+Nisemonogatari,7.6,False,8.18,偽物語
+Yu-Gi-Oh! Zexal,5.2,False,6.34,遊☆戯☆王ZEXAL
+Trinity Blood,7.1,False,7.32,トリニティ・ブラッド
+Accel World,7.0,False,7.32,アクセル・ワールド
+Yu-Gi-Oh!,7.8,False,7.47,遊☆戯☆王　デュエルモンスターズ
+Shin Chan,8.4,False,7.69,クレヨンしんちゃん
+Shin Chan,8.0,False,7.69,クレヨンしんちゃん
+Shin Chan,8.1,False,7.69,クレヨンしんちゃん
+Shin Chan,8.6,False,7.69,クレヨンしんちゃん
+Pop Team Epic,6.9,False,7.27,ポプテピピック
+Hitorijime My Hero,7.4,False,7.41,ひとりじめマイヒーロー
+Campione!,6.8,False,7.05,カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～
+Non Non Biyori,7.8,False,7.95,のんのんびより
+Aldnoah.Zero,7.1,False,7.44,アルドノア・ゼロ
+Aldnoah.Zero,7.1,False,6.98,アルドノア・ゼロ2ndシーズン
+Paradise Kiss,7.7,False,7.83,Paradise kiss
+Super Lovers,6.9,False,7.08,SUPER LOVERS（スーパーラヴァーズ）
+Bakuman.,8.0,False,8.23,バクマン。
+Bakuman.,8.0,False,8.4,バクマン。2ndシーズン
+Bakuman.,8.0,False,8.58,バクマン。
+Armed Girl's Machiavellism,6.6,False,6.96,武装少女マキャヴェリズム
+Love Hina,6.9,False,7.14,ラブひな
+Amagi Brilliant Park,7.0,False,7.52,甘城ブリリアントパーク
+Idaten Jump,8.2,False,6.96,韋駄天翔(ジャンプ)
+Tiger & Bunny,7.2,False,7.94,TIGER & BUNNY （タイガー・アンド・バニー）
+Handa-kun,7.2,False,7.39,はんだくん
+Record of Grancrest War,7.1,False,7.25,グランクレスト戦記
+Tenchi Muyo! War on Geminar,7.0,False,7.84,異世界の聖機師物語
+Ushio & Tora,7.6,False,7.95,うしおととら
+Ushio & Tora,7.1,False,7.95,うしおととら
+Chobits,7.3,False,7.43,ちょびっツ
+Tokyo Ravens,7.3,False,7.53,東京レイヴンズ
+Kuromukuro,7.2,False,7.21,クロムクロ
+Maiden Rose,5.8,False,6.64,百日の薔薇
+Shuffle!,6.8,False,7.09,SHUFFLE! (シャッフル!)
+Infinite Dendrogram,6.1,False,6.14,<Infinite Dendrogram>-インフィニット・デンドログラム-
+Dusk Maiden of Amnesia,7.3,False,7.86,黄昏乙女×アムネジア
+Love Lab,6.8,False,7.36,恋愛ラボ
+Outbreak Company,6.7,False,7.3,アウトブレイク・カンパニー
+Love Stage!!,7.3,False,7.32,LOVE STAGE!!
+Kokkoku,7.0,False,7.04,刻刻
+School Rumble,7.8,False,7.94,スクールランブル
+Medaka Box,6.4,False,7.07,めだかボックス
+Somali and the Forest Spirit,7.5,False,7.82,ソマリと森の神様
+Chrono Crusade,7.1,False,7.66,クロノクルセイド
+To the Abandoned Sacred Beasts,6.2,False,6.41,かつて神だった獣たちへ
+Nanbaka,6.6,False,7.34,ナンバカ
+Kakushigoto,7.4,False,8.02,かくしごと
+Shirobako,8.0,False,8.35,SHIROBAKO
+Digimon Fusion,6.5,False,6.73,デジモンクロスウォーズ
+Digimon Fusion,6.5,False,7.16,デジモンクロスウォーズ～悪のデスジェネラルと七つの王国～
+Digimon Fusion,6.5,False,6.45,デジモンクロスウォーズ 時を駆ける少年ハンターたち
+One Outs,8.3,False,8.35,ワンナウツ
+Kokoro Connect,7.4,False,7.82,ココロコネクト
+Amagami SS,6.8,False,7.36,アマガミSS
+Amagami SS,6.8,False,7.26,アマガミSS
+The Sky Crawlers,6.7,False,7.3,スカイ・クロラ
+Level E,6.8,False,7.45,レベルE
+Speed Grapher,7.1,False,7.35,スピードグラファー
+Sakura Trick,6.9,False,7.02,桜Trick
+Digimon Data Squad,6.6,False,6.95,デジモンセイバーズ
+Golgo 13,7.4,False,7.54,ゴルゴ13
+DRAMAtical Murder,5.7,False,6.09,ドラマティカル マーダー
+Sorcerous Stabber Orphen,5.6,False,5.78,魔術士オーフェンはぐれ旅
+Stars Align,7.4,False,7.53,星合の空
+Harukana Receive,6.5,False,6.7,はるかなレシーブ
+Knight's & Magic,7.2,False,7.13,ナイツ&マジック
+Yo-kai Watch,5.9,False,6.54,妖怪ウォッチ
+Kaleido Star,7.8,False,7.94,カレイドスター
+Drifting Dragons,6.1,False,7.05,空挺ドラゴンズ
+Dance with Devils,5.8,False,6.36,ダンス・ウィズ・デビルス
+Strawberry Panic,7.1,False,7.31,ストロベリー・パニック
+Gabriel DropOut,7.1,False,7.49,ガヴリールドロップアウト
+Mazinger Z,7.8,False,7.26,マジンガーＺ
+Rail Wars!,5.7,False,6.41,RAIL WARS! [レールウォーズ]
+White Album 2,7.3,False,7.71,ホワイトアルバム2
+Captain Tsubasa,7.8,False,7.4,キャプテン翼 (2001)
+Tamako Market,6.9,False,7.38,たまこまーけっと
+Tiger Mask W,6.9,False,6.98,タイガーマスクW
+Flying Witch,7.2,False,7.53,ふらいんぐうぃっち
+Freezing Vibration,6.9,False,6.82,フリージング ヴァイブレーション
+Princess Principal,7.3,False,7.71,プリンセス・プリンシパル
+Macross Zero,7.7,False,7.55,マクロス ゼロ
+Death Billiards,7.5,False,7.93,デス・ビリヤード
+Tenkai Knights,6.1,False,6.45,テンカイナイト
+Cardfight!! Vanguard,5.8,False,7.04,カードファイト!! ヴァンガード
+Gunslinger Girl,7.4,False,7.42,ガンスリンガー・ガール
+Ikebukuro West Gate Park,6.4,False,6.83,池袋ウエストゲートパーク
+Holy Knight,4.8,False,6.02,Holy Knight (ホーリーナイト)
+Ben-To,6.7,False,7.28,ベン・トー
+Witch Hunter Robin,7.2,False,7.27,Witch Hunter ROBIN (ウイッチハンターロビン)
+Tales of Zestiria the X,6.8,False,7.31,テイルズ オブ ゼスティリア ザ クロス
+Gigantor,6.9,False,6.2,鉄人２８号
+Buddy Complex,7.0,False,7.17,バディ・コンプレックス
+Ghost Hound,7.4,False,7.46,神霊狩 GHOST HOUND
+Konohana Kitan,7.2,False,7.56,このはな綺譚
+Aria the Scarlet Ammo,6.5,False,6.88,緋弾のアリア
+Angel Sanctuary,6.4,False,6.31,天使禁猟区
+07-Ghost,6.9,False,7.24,セブンゴースト
+Casshern Sins,7.0,False,7.53,キャシャーン SINS
+Battle B-Daman,4.8,False,6.28,B-伝説(ビーレジェンド)! バトルビーダマン
+Clockwork Planet,5.4,False,6.47,クロックワーク・プラネット
+Nobunaga teacher's young bride,5.2,False,5.27,ノブナガ先生の幼な妻
+Yakitate!! Japan,7.7,False,7.95,焼きたて!! ジャぱん
+Tsukimonogatari,7.6,False,8.14,憑物語
+D-Frag!,7.3,False,7.58,ディーふらぐ！
+Air Gear,7.1,False,7.53,エア・ギア
+Zetman,6.4,False,6.89,ゼットマン
+Kekkaishi,7.5,False,7.63,結界師
+Blade & Soul,6.0,False,6.09,ブレイドアンドソウル
+Zoids Genesis,8.0,False,7.24,ゾイド ジェネシス
+RahXephon,7.2,False,7.42,ラーゼフォン
+Full Metal Panic! Invisible Victory,7.5,False,7.6,フルメタル・パニック！Invisible Victory
+Joshiraku,7.2,False,7.49,じょしらく
+Isuca,5.8,False,6.03,ISUCA [イスカ]
+Genshiken,7.5,False,7.66,げんしけん
+Gundam Build Fighters,7.2,False,7.79,ガンダムビルドファイターズ
+Gakuen Heaven,5.9,False,6.55,学園ヘヴン
+Brave Story,6.5,False,7.46,ブレイブ・ストーリー
+New Game!,7.3,False,7.62,NEW GAME!
+Tokyo Majin,6.1,False,7.15,東京魔人學園剣風帖　龖（トウ）
+Ghost Talker's Daydream,6.1,False,6.21,低俗霊DAYDREAM
+Omamori Himari,6.3,False,6.93,おまもりひまり
+Sakura Quest,7.3,False,7.41,サクラクエスト
+Punch Line,6.1,False,6.99,パンチライン
+Sanrio Boys,6.5,False,6.61,サンリオ男子
+Hakata Tonkotsu Ramens,7.1,False,7.41,博多豚骨ラーメンズ
+Magical Girl Raising Project,7.1,False,7.0,魔法少女育成計画
+Black Blood Brothers,6.9,False,7.14,ブラック・ブラッド・ブラザーズ
+Rozen Maiden,6.9,False,7.44,ローゼンメイデン
+Rozen Maiden,6.9,False,7.44,ローゼンメイデン
+Flip Flappers,7.2,False,7.68,フリップフラッパーズ
+The Relative Worlds,5.8,False,5.81,ソウタイセカイ
+Vandread,7.0,False,7.21,ヴァンドレッド
+Utawarerumono,7.0,False,7.67,うたわれるもの
+Giant Killing,7.6,False,7.58,ジャイアントキリング
+Speed Racer,6.2,False,6.67,マッハＧｏＧｏＧｏ
+Bananya,6.2,False,6.72,ばなにゃ
+IDOLiSH7,8.1,False,7.78,アイドリッシュセブン
+Dimension W,6.8,False,7.22,Dimension W
+Sarazanmai,6.9,False,7.54,さらざんまい
+One Room,4.9,False,5.57,One Room (ワンルーム)
+Chi's Sweet Adventure,8.2,False,6.79,こねこのチー ポンポンらー大冒険
+Vampire Princess Miyu,6.9,False,7.15,吸血姫美夕
+Vampire Princess Miyu,6.9,False,6.99,吸血姫美夕
+Air Master,6.8,False,7.02,エアマスター
+DearS,6.2,False,6.62,ディアーズ
+Today's Menu for the Emiya Family,7.2,False,7.82,衛宮さんちの今日のごはん
+Hinomaru Sumo,7.4,False,7.6,火ノ丸相撲
+Divine Gate,4.9,False,5.6,ディバインゲート
+Gakuen Alice,7.2,False,7.65,学園アリス
+Samurai Flamenco,6.5,False,6.91,サムライフラメンコ
+Heavy Object,6.4,False,7.29,ヘヴィーオブジェクト
+Megazone 23,6.4,False,6.81,メガゾーン23
+Hanebado!,6.2,False,6.93,はねバド！
+Peace Maker Kurogane,6.4,False,7.33,PEACE MAKER 鐵
+Seven Senses of the Re'Union,5.0,False,6.13,七星のスバル
+Joker Game,7.0,False,7.06,ジョーカー・ゲーム
+Dirty Pair Flash,6.8,False,6.67,ダーティペアFLASH
+Photo Kano,5.7,False,6.22,フォトカノ
+Gasaraki,6.4,False,6.66,ガサラキ
+Samurai Deeper Kyo,6.7,False,6.92,SAMURAI DEEPER KYO
+Needless,6.6,False,7.28,ニードレス
+Muhyo & Roji's Bureau of Supernatural Investigation,7.0,False,6.7,ムヒョとロージーの魔法律相談事務所
+Saiyuki Reload,7.2,False,7.41,最遊記RELOAD
+Brave 10,6.4,False,6.8,ブレイブ・テン
+Un-Go,6.5,False,7.4,UN-GO アン ゴ
+Kiddy Grade,6.9,False,7.22,キディ・グレイド
+Upotte!!,6.7,False,6.51,うぽって!!
+Norn9,5.9,False,6.56,NORN9 ノルン+ノネット
+Gundam Build Divers,7.0,False,6.31,ガンダムビルドダイバーズ
+Kobato.,7.3,False,7.98,こばと。
+Eromanga Sensei,5.5,False,6.49,エロマンガ先生
+Elemental Gelade,6.8,False,7.3,エレメンタルジェレイド
+8 Man After,6.3,False,6.19,エイトマン AFTER
+Listeners,5.2,False,5.38,LISTENERS リスナーズ
+009-1,6.4,False,6.26,ゼロゼロナインワン
+Mushibugyo,6.5,False,7.35,ムシブギョー 蟲奉行
+Occultic;Nine,6.4,False,6.94,Occultic;Nine －オカルティック・ナイン－
+Back Arrow,6.0,False,5.81,バック・アロウ
+Blue Seed,6.8,False,7.03,ブルーシード
+Broken Blade,6.8,False,7.67,ブレイク ブレイド 覚醒ノ刻
+Broken Blade,6.8,False,7.29,ブレイク ブレイド
+Speed Racer X,7.1,False,6.31,マッハGoGoGo
+Maburaho,6.4,False,6.8,まぶらほ
+Vividred Operation,5.7,False,6.46,ビビッドレッド・オペレーション
+Dances with the Dragons,5.9,False,5.82,されど罪人は竜と踊る
+Gregory Horror Show,7.7,False,6.61,グレゴリーホラーショー
+Project ARMS,6.6,False,6.99,プロジェクトアームズ
+Beatless,5.6,False,6.2,BEATLESS
+Tokyo ESP,6.4,False,6.57,東京ESP
+Macross Delta,5.9,False,7.27,マクロスΔ（デルタ）
+Zoids Fuzors,6.4,False,6.42,ゾイド・フューザーズ
+Hand Shakers,3.1,False,5.35,ハンドシェイカー
+Idoly Pride,6.5,False,6.79,IDOLY PRIDE
+Aria the Origination,8.3,False,8.53,ARIA The ORIGINATION
+Sagrada Reset,7.4,False,7.37,サクラダリセット
+Gatchaman Crowds,6.8,False,7.33,ガッチャマン クラウズ
+Hidamari Sketch,7.0,False,7.45,ひだまりスケッチ
+Bakuon!!,6.3,False,6.48,ばくおん!!
+Coppelion,6.1,False,6.48,コッペリオン
+Captain Earth,6.0,False,6.42,キャプテン・アース
+The Case Files of Jeweler Richard,6.8,False,7.16,宝石商リチャード氏の謎鑑定
+Moetan,6.3,False,6.5,もえたん
+Anime-Gataris,6.1,False,6.42,アニメガタリズ
+ID-0,6.1,False,6.59,ID-0
+Thunderbirds 2086,7.0,False,6.1,科学救助隊テクノボイジャー
+Double Decker! Doug & Kirill,6.7,False,6.87,DOUBLE DECKER! ダグ＆キリル
+I My Me! Strawberry Eggs,7.0,False,6.81,あぃまぃみぃ！ストロベリー・エッグ
+Luck & Logic,5.3,False,6.1,ラクエンロジック
+Kamisama Dolls,6.6,False,7.04,神様ドォルズ
+Saber Marionette J,7.4,False,7.35,セイバーマリオネットJ
+Love Hina Again,6.8,False,7.25,ラブ ひな Again
+Kimba the White Lion,6.5,False,6.56,ジャングル大帝
+"Wave, Listen to Me!",7.0,False,7.37,波よ聞いてくれ
+"Wake Up, Girls!",6.5,False,6.99,"Wake Up, Girls！"
+The Littl' Bits,7.1,False,6.38,森の陽気な小人たち ベルフィーとリビット
+Tari Tari,7.0,False,7.32,TARI TARI
+Glasslip,5.0,False,5.44,グラスリップ
+Yuyushiki,6.6,False,7.38,ゆゆ式
+Beet the Vandel Buster,6.6,False,6.98,冒険王ビィト
+Natsuyuki Rendezvous,7.2,False,7.29,夏雪ランデブー
+Hinako Note,6.4,False,6.76,ひなこのーと
+RobiHachi,5.9,False,6.51,ロビハチ
+Star Ocean EX,6.8,False,6.61,スターオーシャンEX
+Demon Prince Enma,6.6,False,7.13,鬼公子　炎魔
+Mitsuboshi Colors,6.8,False,7.43,三ツ星カラーズ
+Endride,5.4,False,5.65,エンドライド
+Love Live! Sunshine!!,7.0,False,7.4,ラブライブ！サンシャイン!!
+Danchigai,5.8,False,6.54,だんちがい
+Tytania,6.9,False,6.84,タイタニア
+Joshi Kausei,5.4,False,5.76,女子かう生
+ClassicaLoid,7.2,False,6.41,クラシカロイド
+Macron 1,7.7,False,6.6,戦国魔神ゴーショーグン
+Takunomi,6.2,False,6.43,たくのみ。
+Puzzle & Dragons X,7.1,False,6.48,パズドラクロス
+Inugami-san to Nekoyama-san,6.0,False,6.57,犬神さんと猫山さん
+Elegant Yokai Apartment Life,7.1,False,7.18,妖怪アパートの幽雅な日常
+AKB0048,6.4,False,7.39,AKB0048
+Reideen,7.2,False,6.56,ライディーン
+Gundam Build Fighters Try,6.9,False,7.27,ガンダムビルドファイターズトライ
+Gekidol,5.8,False,5.76,ゲキドル
+Akikan!,5.3,False,6.18,アキカン!
+Kabukibu!,7.5,False,6.62,カブキブ！
+RG Veda,5.9,False,6.14,聖伝
+Gatchaman,,False,6.95,科学忍者隊ガッチャマン
+Fantastic Children,7.4,False,7.55,ファンタジックチルドレン
+Fractale,6.7,False,6.96,フラクタル
+Hanayamata,7.2,False,7.33,ハナヤマタ
+Aria the Natural,8.0,False,8.2,ARIA The NATURAL
+Long Riders!,7.2,False,6.64,ろんぐらいだぁす！
+Kagewani,6.1,False,6.42,影鰐-KAGEWANI-
+Gatchaman Crowds Insight,7.4,False,7.3,GATCHAMAN CROWDS insight（インサイト）
+Gatchaman Crowds Insight,7.4,False,7.02,GATCHAMAN CROWDS insight（インサイト）「#0 inbound」
+Hatena Illusion,6.1,False,5.37,はてな☆イリュージョン
+Space Pirate Captain Harlock,7.0,False,7.71,宇宙海賊・キャプテンハーロック
+Space Pirate Captain Harlock,7.0,False,7.38,キャプテンハーロック
+Battle Girl High School,5.1,False,5.84,バトルガール ハイスクール
+Baby Felix,6.3,False,5.52,ベイビーフィリックス
+Starmyu,6.9,False,6.93,高校星歌劇［スタミュ］
+100 Sleeping Princes and the Kingdom of Dreams,6.2,False,5.9,夢王国と眠れる100人の王子様
+Kirarin Revolution,7.1,False,7.07,きらりん☆レボリューション
+Nyanko Days,6.6,False,6.61,にゃんこデイズ
+Wagamama High Spec,4.0,False,5.41,ワガママハイスペック
+Nyanbo!,5.1,False,6.35,にゃんぼー!
+Woodpecker Detective's Office,7.0,False,6.03,啄木鳥探偵處
+Metal Fighter Miku,7.2,False,6.04,メタルファイター・MIKU

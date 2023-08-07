@@ -37,6 +37,8 @@ I want to create a funnction that extracts information such as director, produce
     * from joblib import Parallel, delayed
     * import numpy as np
     * imported both tqdm and multiprocessing  but ended up not using them.
+    * regex for cleaning the dataframes
+    * seaborne as sns for plotting
 
     <br>
 
@@ -90,6 +92,17 @@ I then safe the dataframe as 'anime_full.csv' (There was an anime half because t
 *commit 10 and 11*
 
 ## Combining datasets
+
+Combined the datasets using a function that looks at the titles of both dataframes and merges the info of the titles that appear in both. Then I cleaned the redundant data. I save it as 'ratings.csv' to then plot the differennces between the ratings.
+
+*commit 12*
+
+## Upload to mongodB
+
+Uploaded the .csv to a mongo database called animes.
+
+*commit 13*
+
 
 
 
