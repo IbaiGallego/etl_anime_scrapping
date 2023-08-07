@@ -87,7 +87,7 @@ I then safe the dataframe as 'anime_full.csv' (There was an anime half because t
 
 6. Save as imdb.csv
 
-*commit 10*
+*commit 10 and 11*
 
 ## Combining datasets
 
