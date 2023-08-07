@@ -24,7 +24,7 @@ I am going to delete informationn that is not relevant to my study. This dataset
 
 
 
-## Scrapping Wikipedia
+## Scrapping Wikipedia with bs4
 
 I want to create a funnction that extracts information such as director, producer and such. I will run through every link substituting the entry title with the anime title changing the ' ' with '_' using str.replace(). The structure in wikipedia always has a table (html table) where the **'th'** is **'directed by'** or **'produced by'** and the **'td'** is the name of the person. This way I can create a function with a try, except to collect the most part of the 17500 animes in the dataset. I will fisrt try using bs4 (beautiful soup) as it is faster than selenium.
 
@@ -61,7 +61,37 @@ I want to create a funnction that extracts information such as director, produce
 
 *Important note: This function could also be used with other inputs like the original name. Some anime don't have athe wikipedia page with the english name. From 17.500 animes i could onnly scrape around a thousand directors and producers resulting in 1759 rows with either director and or producer.*
 
-*commit 4*
+*commit 4, 5 and 6*
+
+## Scrapping IMDB with selenium
+
+For this part of the project i will create a new database and store the rating from animes into a new df. I will scrape as much as i can from IMDB and later add the data into my anime dataframe.
+
+*commit 7,8 and 9*
+
+Created a jupiter notebook that starts a selenium driver and searches imdb top animations films annd series and scrapes the title, imdb rating, metacritic rating and directors/stars od the 400 first pages. this results in 20.000 rows of animated films.
+
+I then safe the dataframe as 'anime_full.csv' (There was an anime half because the scraping was interrupted at around 13.000 films).
+
+## Cleaning the IMDB
+
+1. Create two functions, one to extract the year and another to remove the imdb indez and year.
+
+2. Create functions to extract directors and stars.
+
+3. Delete unnecessary columns.
+
+4. Clean the votes_imdb function.
+
+5. Create an imdb_trust column where if there are more than 100.000 votes we consider the rating trustworthy.
+
+6. Save as imdb.csv
+
+*commit 10*
+
+## Combining datasets
+
+
 
 
 
